@@ -1,4 +1,4 @@
-import data from './styling.css'
+// import data from './styling.css'
 
 const Table = ({ sat }) => {
   return (
